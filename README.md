@@ -30,12 +30,12 @@ This project is a simple **Password Generator application** built using **Core J
   - One symbol
 - Shuffles the characters to improve randomness
 
-## ▶️ How to Run
+## How to Run
 
 javac *.java
 java Main
 
-## 🖥️ Sample Output
+## Sample Output
 
 === Password Generator ===
 Enter desired password length: 10
