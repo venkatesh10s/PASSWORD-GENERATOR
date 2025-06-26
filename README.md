@@ -41,5 +41,5 @@ java Main
 Enter desired password length: 10
 Generated Password: $Y?mzSL6q(
 
-
+![Image](https://github.com/user-attachments/assets/0da17a34-a3f6-4538-8909-28810be1eecb)
 
